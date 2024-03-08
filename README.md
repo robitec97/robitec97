@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Roberto</h1>
-<h3 align="center">A Technical Leader|Senior Developer from Italy</h3>
+<h3 align="center">A Technical Leader | Senior Developer from Italy</h3>
 
 - 💬 Ask me about **Salesforce, AI, Cybersec, Dotnet**
 
