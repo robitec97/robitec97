@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Roberto</h1>
 <h3 align="center">A Technical Leader | Senior Developer from Italy</h3>
 
-- 💬 Ask me about **Salesforce, AI, Cybersec, Dotnet**
+- 💬 Ask me about diffent topics like **C, Salesforce, AI, Cybersec, Dotnet**
 
 - 📫 How to reach me **roberto.pillitteri@hotmail.it**
 
