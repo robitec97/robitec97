@@ -1,11 +1,11 @@
 <h1 align="center">🧑🏻‍💻 Hi, I’m Roberto</h1>
-<h3 align="center">🚀 Technical Leader | 💻 Senior Developer | 🇮🇹 Italy</h3>
+<h3 align="center">🚀 Software Engineer III at Google</h3>
 
 ---
 
 ### 💡 About Me  
 - 🔭 I’m passionate about building **scalable systems** and **innovative AI solutions**  
-- 💬 Ask me about: **Python, AI, C, Salesforce, DevOps**  
+- 💬 Ask me about: **Python, AI, C, DevOps and Salesforce**  
 - 📫 Reach me at: **roberto.pillitteri@hotmail.it**
 
 ---
